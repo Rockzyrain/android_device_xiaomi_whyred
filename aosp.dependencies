@@ -1,0 +1,18 @@
+[ 
+  {
+    "remote": "github",
+    "repository": "GuaiYiHu/android_vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred",
+    "revision": "lineage-17.0"
+  },
+  {
+    "remote": "github",
+    "repository": "PrimoDev23/kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred",
+    "revision": "rerebase"
+  },
+ {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+ }
+]
